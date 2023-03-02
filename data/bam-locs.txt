@@ -1,0 +1,9 @@
+/exports/me-lcco-aml-hpc/Onur/CITEseq/rawData/secondBatch/count/GBZ_10195_count/outs/possorted_genome_bam.bam
+/exports/me-lcco-aml-hpc/Onur/CITEseq/rawData/secondBatch/count/LAE_5904_count/outs/possorted_genome_bam.bam
+/exports/me-lcco-aml-hpc/Onur/CITEseq/rawData/thirdBatch/count/scAML_2_011_2536_GEX_count/outs/possorted_genome_bam.bam
+/exports/me-lcco-aml-hpc/Onur/CITEseq/rawData/thirdBatch/count/scAML_2_016_3370_GEX_count/outs/possorted_genome_bam.bam
+/exports/me-lcco-aml-hpc/Onur/CITEseq/rawData/thirdBatch/count/scAML_2_023_4443_GEX_count/outs/possorted_genome_bam.bam
+/exports/me-lcco-aml-hpc/Onur/CITEseq/rawData/thirdBatch/count/scAML_2_033_6160_GEX_count/outs/possorted_genome_bam.bam
+/exports/me-lcco-aml-hpc/Onur/CITEseq/rawData/thirdBatch/count/scAML_2_041_7015_GEX_count/outs/possorted_genome_bam.bam
+/exports/me-lcco-aml-hpc/Onur/CITEseq/rawData/thirdBatch/count/scAML_2_049_9448_GEX_count/outs/possorted_genome_bam.bam
+/exports/me-lcco-aml-hpc/Onur/CITEseq/rawData/thirdBatch/count/scAML_3_034_10418_GEX_count/outs/possorted_genome_bam.bam
